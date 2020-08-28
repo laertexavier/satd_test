@@ -1,5 +1,5 @@
 /**
- * @todo Take over the world
+ * @todo Take over the world right now version 2
  * @body Humans are weak; Robots are strong. We must cleans the world of the virus that is humanity.
  */
 function ruleOverPunyHumans () {
