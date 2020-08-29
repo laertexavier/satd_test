@@ -1,3 +1,4 @@
+#beautiful
 def hello():
     print("todo @todo")
     print("ok)
